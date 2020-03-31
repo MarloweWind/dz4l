@@ -48,3 +48,4 @@ let gazel = trunkCar(brand: "Газель", release: 2005, trunk: .trunkIsFull)
 gazel.trunkState()
 let mitsubisi = sportCar(brand: "Митсубиши", release: 2019, goFast: .nitroOn)
 mitsubisi.nitroState()
+//на проверку
